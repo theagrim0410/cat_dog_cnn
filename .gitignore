@@ -1,11 +1,17 @@
-animals
-try
-.keras
-.jpg
-.png
-.jpeg
-.bmp
-.gif
-.webp
-.json
-.h5
+# Dataset folder
+animals/
+
+# Model files
+*.keras
+*.h5
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.webp
+
+# JSON files (optional: remove if needed)
+*.json
