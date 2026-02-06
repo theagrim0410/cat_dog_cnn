@@ -7,3 +7,6 @@ catdogcnn
     |==.gitignore
     |--catdogcnn.ipynb
     |--kaggle.json
+
+
+download kaggle.json and do some of the changement accordingly
