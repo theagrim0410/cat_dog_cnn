@@ -1,0 +1,9 @@
+catdogcnn 
+    |-.ipynb_checkpoints
+    |--animals
+        |--test
+        |--train
+    |--try
+    |==.gitignore
+    |--catdogcnn.ipynb
+    |--kaggle.json
